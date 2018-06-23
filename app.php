@@ -19,7 +19,7 @@
     }
 
     /**
-     * @param $class
+     * @param string $class
      *
      * @return hookable
      */
